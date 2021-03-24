@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarinaJami
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Networks
+- 🌱 I’m currently learning Communication Networks
 - 💞️ I’m looking to collaborate on AI projects in networks
 - 📫 How to reach me jami.sarina@gmail.com
 
