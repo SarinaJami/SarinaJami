@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarinaJami
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on AI projects 
 - 📫 How to reach me jami.sarina@gmail.com
 
