@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SarinaJami
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on AI projects 
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Software Engineering Projects
 - 📫 How to reach me jami.sarina@gmail.com
 
 <!---
